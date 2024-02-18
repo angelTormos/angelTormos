@@ -14,13 +14,3 @@
 - 💻 Lenguajes de programación: HTML, JAVA
 <!-- - 🚀 Tecnologías: [Lista de tecnologías]-->
 <!-- - 📚 Frameworks: [Lista de frameworks]-->
-
-- LinkedIn: [Tu perfil de LinkedIn](enlace-a-tu-perfil)
-- Twitter: [@TuUsuarioTwitter](enlace-a-tu-twitter)
-- Correo electrónico: [tu@email.com](mailto:tu@email.com)
-
-## Contribuciones
-
-¡Siéntete libre de contribuir a mis proyectos o de contactarme para colaboraciones! Estoy siempre interesado en nuevas ideas y en mejorar mis habilidades.
-
-¡Gracias por visitar mi perfil! 😊
