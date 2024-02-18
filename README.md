@@ -1,16 +1,26 @@
-### Hi there 👋
+# ¡Hola, soy Angel! 👋
 
-<!--
-**angelTormos/angelTormos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi rincón en GitHub! Me encanta aprender nuevas cosas y compartir conocimientos con la comunidad.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 [Sitio web/blog](https://github.com/angelTormos): [¡Visítame!](https://github.com/angelTormos)
+- 💼 Actualmente estuido Desarrollo de Aplicaciones Web
+- 🎓 Graduado en Sistemas Microinformaticos y Redes
+- 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías
+
+## Mis habilidades
+
+- 💻 Lenguajes de programación: HTML, JAVA
+<!-- - 🚀 Tecnologías: [Lista de tecnologías]-->
+<!-- - 📚 Frameworks: [Lista de frameworks]-->
+
+- LinkedIn: [Tu perfil de LinkedIn](enlace-a-tu-perfil)
+- Twitter: [@TuUsuarioTwitter](enlace-a-tu-twitter)
+- Correo electrónico: [tu@email.com](mailto:tu@email.com)
+
+## Contribuciones
+
+¡Siéntete libre de contribuir a mis proyectos o de contactarme para colaboraciones! Estoy siempre interesado en nuevas ideas y en mejorar mis habilidades.
+
+¡Gracias por visitar mi perfil! 😊
